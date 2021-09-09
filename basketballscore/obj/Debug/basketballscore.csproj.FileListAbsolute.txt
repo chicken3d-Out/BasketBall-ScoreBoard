@@ -1,0 +1,10 @@
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\bin\Debug\basketballscore.exe.config
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\bin\Debug\basketballscore.exe
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\bin\Debug\basketballscore.pdb
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.csprojAssemblyReference.cache
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.Form1.resources
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.Properties.Resources.resources
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.csproj.GenerateResource.cache
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.csproj.CoreCompileInputs.cache
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.exe
+C:\Users\Elsa\source\repos\basketballscore\basketballscore\obj\Debug\basketballscore.pdb
